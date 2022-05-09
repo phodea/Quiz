@@ -1,6 +1,6 @@
 Proiect IP - Quiz cultura generala -
 
-Marian Bogdan
-Hodea Paul-Emanuel
-Marin Vlad
+Marian Bogdan, 
+Hodea Paul-Emanuel, 
+Marin Vlad, 
 Dumitrascu Dragos-Teodor
