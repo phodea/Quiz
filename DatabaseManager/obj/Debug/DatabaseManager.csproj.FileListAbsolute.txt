@@ -7,3 +7,21 @@ C:\Users\Paul Hodea\Desktop\Proiect IP\DatabaseManager\bin\Debug\DataTypes.pdb
 C:\Users\Paul Hodea\Desktop\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.csproj.CopyComplete
 C:\Users\Paul Hodea\Desktop\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.dll
 C:\Users\Paul Hodea\Desktop\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.pdb
+D:\Downloads\Proiect IP\DatabaseManager\bin\Debug\DatabaseManager.dll
+D:\Downloads\Proiect IP\DatabaseManager\bin\Debug\DatabaseManager.pdb
+D:\Downloads\Proiect IP\DatabaseManager\bin\Debug\DataTypes.dll
+D:\Downloads\Proiect IP\DatabaseManager\bin\Debug\DataTypes.pdb
+D:\Downloads\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.csprojAssemblyReference.cache
+D:\Downloads\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+D:\Downloads\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.csproj.CopyComplete
+D:\Downloads\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.dll
+D:\Downloads\Proiect IP\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\bin\Debug\DatabaseManager.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\bin\Debug\DataTypes.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\bin\Debug\DataTypes.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\obj\Debug\DatabaseManager.csprojAssemblyReference.cache
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\obj\Debug\DatabaseManager.csproj.CopyComplete
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\obj\Debug\DatabaseManager.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\DatabaseManager\obj\Debug\DatabaseManager.pdb

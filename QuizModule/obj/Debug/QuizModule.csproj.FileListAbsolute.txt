@@ -9,3 +9,25 @@ C:\Users\Paul Hodea\Desktop\Proiect IP\QuizModule\bin\Debug\DataTypes.pdb
 C:\Users\Paul Hodea\Desktop\Proiect IP\QuizModule\obj\Debug\QuizModule.csproj.CopyComplete
 C:\Users\Paul Hodea\Desktop\Proiect IP\QuizModule\obj\Debug\QuizModule.dll
 C:\Users\Paul Hodea\Desktop\Proiect IP\QuizModule\obj\Debug\QuizModule.pdb
+D:\Downloads\Proiect IP\QuizModule\bin\Debug\QuizModule.dll
+D:\Downloads\Proiect IP\QuizModule\bin\Debug\QuizModule.pdb
+D:\Downloads\Proiect IP\QuizModule\bin\Debug\DatabaseManager.dll
+D:\Downloads\Proiect IP\QuizModule\bin\Debug\DataTypes.dll
+D:\Downloads\Proiect IP\QuizModule\bin\Debug\DatabaseManager.pdb
+D:\Downloads\Proiect IP\QuizModule\bin\Debug\DataTypes.pdb
+D:\Downloads\Proiect IP\QuizModule\obj\Debug\QuizModule.csprojAssemblyReference.cache
+D:\Downloads\Proiect IP\QuizModule\obj\Debug\QuizModule.csproj.CoreCompileInputs.cache
+D:\Downloads\Proiect IP\QuizModule\obj\Debug\QuizModule.csproj.CopyComplete
+D:\Downloads\Proiect IP\QuizModule\obj\Debug\QuizModule.dll
+D:\Downloads\Proiect IP\QuizModule\obj\Debug\QuizModule.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\bin\Debug\QuizModule.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\bin\Debug\QuizModule.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\bin\Debug\DatabaseManager.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\bin\Debug\DataTypes.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\bin\Debug\DatabaseManager.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\bin\Debug\DataTypes.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\obj\Debug\QuizModule.csprojAssemblyReference.cache
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\obj\Debug\QuizModule.csproj.CoreCompileInputs.cache
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\obj\Debug\QuizModule.csproj.CopyComplete
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\obj\Debug\QuizModule.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\QuizModule\obj\Debug\QuizModule.pdb

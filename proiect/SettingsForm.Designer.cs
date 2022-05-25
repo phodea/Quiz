@@ -92,7 +92,7 @@ namespace proiect
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBoxResolution);
             this.Name = "SettingsForm";
-            this.Text = "SettingsForm";
+            this.Text = "Setari";
             this.ResumeLayout(false);
             this.PerformLayout();
 

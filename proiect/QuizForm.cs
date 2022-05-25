@@ -1,29 +1,43 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/**************************************************************************
+ *                                                                        *
+ *  File:        QuizForm.cs                                              *
+ *  Copyright:   (c) 2022, Hodea Paul-Emanuel                             *
+ *  E-mail:      paul-emanuel.hodea@student.tuiasi.ro                     *
+ *  Website:     https://github.com/phodea/Quiz                           *
+ *  Description: Fereastra pentru sustinerea quiz-ului. Utilizatorul poate*
+ *  raspunde si naviga intre intrebari, parcursul fiind marcat de un      *
+ *  control de tip ProgressBar.                                           *
+ *                                                                        *
+ **************************************************************************/
+
+using System;
 using System.Windows.Forms;
 
 namespace proiect
 {
-    /// <summary>
-    /// Fereastra pentru sustinerea quiz-ului.
-    /// </summary>
     public partial class QuizForm : Form
     {
         private QuizManager quizManager;
         private int currentQuestionIndex = 0;
-        public QuizForm(int difficulty)
+        private int width;
+        private int height;
+
+        public QuizForm(int difficulty, int width, int height)
         {
             InitializeComponent();
-            this.CenterToScreen();
             this.FormClosing += QuizForm_FormClosing;
             quizManager = new QuizManager(difficulty);
             buttonFinish.Enabled = false;
+
+            this.MinimumSize = new System.Drawing.Size(500, 500);
+
+            this.width = width;
+            this.Width = width;
+
+            this.height = height;
+            this.Height = height;
+
+            this.CenterToScreen();
         }
 
         //Metoda se apeleaza cand formularul se inchide,
@@ -71,7 +85,6 @@ namespace proiect
                 }
                 else
                 {
-                    progressBarQuiz.PerformStep();
                     DisplayQuestion(++currentQuestionIndex);
                 }
             }
@@ -119,12 +132,16 @@ namespace proiect
         {
             if (radioButtonOption1.Checked)
             {
+                //daca nu exista un raspuns selectat deja, se va face un pas la progress bar
+                if (quizManager.questions[currentQuestionIndex].selectedAnswer == -1)
+                    progressBarQuiz.PerformStep();
+
+                //daca este ultima intrebare, se va afisa butonul de finish
                 if (currentQuestionIndex == quizManager.questions.Length - 1)
                 {
-                    progressBarQuiz.PerformStep();
                     buttonFinish.Enabled = true;
                 }
-                quizManager.setUserAnswer(currentQuestionIndex, 0);
+                quizManager.SetUserAnswer(currentQuestionIndex, 0);
             }
         }
 
@@ -132,12 +149,16 @@ namespace proiect
         {
             if (radioButtonOption2.Checked)
             {
+                //daca nu exista un raspuns selectat deja, se va face un pas la progress bar
+                if (quizManager.questions[currentQuestionIndex].selectedAnswer == -1)
+                    progressBarQuiz.PerformStep();
+
+                //daca este ultima intrebare, se va afisa butonul de finish
                 if (currentQuestionIndex == quizManager.questions.Length - 1)
                 {
-                    progressBarQuiz.PerformStep();
                     buttonFinish.Enabled = true;
                 }
-                quizManager.setUserAnswer(currentQuestionIndex, 1);
+                quizManager.SetUserAnswer(currentQuestionIndex, 1);
             }
         }
 
@@ -145,12 +166,16 @@ namespace proiect
         {
             if (radioButtonOption3.Checked)
             {
+                //daca nu exista un raspuns selectat deja, se va face un pas la progress bar
+                if (quizManager.questions[currentQuestionIndex].selectedAnswer == -1)
+                    progressBarQuiz.PerformStep();
+
+                //daca este ultima intrebare, se va afisa butonul de finish
                 if (currentQuestionIndex == quizManager.questions.Length - 1)
                 {
-                    progressBarQuiz.PerformStep();
                     buttonFinish.Enabled = true;
                 }
-                quizManager.setUserAnswer(currentQuestionIndex, 2);
+                quizManager.SetUserAnswer(currentQuestionIndex, 2);
             }
         }
 
@@ -158,24 +183,26 @@ namespace proiect
         {
             if (radioButtonOption4.Checked)
             {
+                //daca nu exista un raspuns selectat deja, se va face un pas la progress bar
+                if (quizManager.questions[currentQuestionIndex].selectedAnswer == -1)
+                    progressBarQuiz.PerformStep();
+
+                //daca este ultima intrebare, se va afisa butonul de finish
                 if (currentQuestionIndex == quizManager.questions.Length - 1)
                 {
-                    progressBarQuiz.PerformStep();
                     buttonFinish.Enabled = true;
                 }
-                quizManager.setUserAnswer(currentQuestionIndex, 3);
+                quizManager.SetUserAnswer(currentQuestionIndex, 3);
             }
         }
 
         //La terminarea Quiz-ului, se va trece la urmatoarea fereastra (ResultForm)
         private void buttonFinish_Click(object sender, EventArgs e)
         {
-            MainForm parent = (MainForm)this.Owner;
-
             int numberOfQuestions = quizManager.questions.Length;
-            Question[] wrongAnswers = quizManager.validateAnswers();
+            Question[] wrongAnswers = quizManager.ValidateAnswers();
 
-            ResultForm resultForm = new ResultForm(numberOfQuestions, wrongAnswers);
+            ResultForm resultForm = new ResultForm(numberOfQuestions, wrongAnswers, width, height);
 
             resultForm.Show(this);
             this.Hide();

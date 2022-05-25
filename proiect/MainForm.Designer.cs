@@ -37,6 +37,7 @@
             // 
             // buttonPlay
             // 
+            this.buttonPlay.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonPlay.AutoSize = true;
             this.buttonPlay.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonPlay.Location = new System.Drawing.Point(454, 228);
@@ -49,6 +50,7 @@
             // 
             // buttonSettings
             // 
+            this.buttonSettings.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonSettings.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSettings.Location = new System.Drawing.Point(454, 346);
             this.buttonSettings.Name = "buttonSettings";
@@ -60,6 +62,7 @@
             // 
             // buttonExit
             // 
+            this.buttonExit.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonExit.Location = new System.Drawing.Point(454, 413);
             this.buttonExit.Name = "buttonExit";
@@ -71,6 +74,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(426, 110);
@@ -81,6 +85,7 @@
             // 
             // buttonDifficulty
             // 
+            this.buttonDifficulty.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonDifficulty.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonDifficulty.Location = new System.Drawing.Point(454, 290);
             this.buttonDifficulty.Name = "buttonDifficulty";
@@ -101,8 +106,9 @@
             this.Controls.Add(this.buttonExit);
             this.Controls.Add(this.buttonSettings);
             this.Controls.Add(this.buttonPlay);
+            this.HelpButton = true;
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "Quiz Game";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -6,13 +6,19 @@ namespace UnitTestProjectQuestion
     [TestClass]
     public class UnitTestQuestion
     {
+        /// <summary>
+        /// Construirea unui obiect de tip Question, si testarea metodei de returnare a raspunsului corect
+        /// </summary>
         [TestMethod]
         public void TestMethodGetCorrectAnswer()
         {
             proiect.Question question = new proiect.Question("Intrebare", new[] { "Raspuns1", "Raspuns2", "Raspuns3", "Raspuns4" }, 2);
-            Assert.AreEqual(question.getCorrectAnswer(), 2);
+            Assert.AreEqual(question.GetCorrectAnswer(), 2);
         }
 
+        /// <summary>
+        /// Construirea unui obiect si testarea logicii de validare a unui raspuns corect
+        /// </summary>
         [TestMethod]
         public void TestMethodGetValidateGoodAnswer()
         {
@@ -21,6 +27,9 @@ namespace UnitTestProjectQuestion
             Assert.AreEqual(question.ValidateAnswer(), true);
         }
 
+        /// <summary>
+        /// Construirea unui obiect si testarea logicii de validare a unui raspuns corect
+        /// </summary>
         [TestMethod]
         public void TestMethodGetCorrectValidateWrongAnswer()
         {

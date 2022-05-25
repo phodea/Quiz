@@ -73,7 +73,7 @@ namespace proiect
             this.Controls.Add(this.buttonMediu);
             this.Controls.Add(this.buttonIncepator);
             this.Name = "DifficultyForm";
-            this.Text = "difficultyForm";
+            this.Text = "Dificultate";
             this.ResumeLayout(false);
 
         }

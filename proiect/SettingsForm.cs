@@ -1,18 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/**************************************************************************
+ *                                                                        *
+ *  File:        DifficultyForm.cs                                        *
+ *  Copyright:   (c) 2022, Hodea Paul-Emanuel                             *
+ *  E-mail:      paul-emanuel.hodea@student.tuiasi.ro                     *
+ *  Website:     https://github.com/phodea/Quiz                           *
+ *  Description: Fereastra in care utilizatorul poate alege rezolutia care*
+ *  va fi salvata pentru intreaga aplicatie.                              *
+ *                                                                        *
+ **************************************************************************/
+
+using System;
 using System.Windows.Forms;
 
 namespace proiect
 {
-    /// <summary>
-    /// Fereastra folosita pentru selectarea setarilor de catre utilizator
-    /// </summary>
     public partial class SettingsForm : Form
     {
         public SettingsForm()
@@ -33,7 +34,7 @@ namespace proiect
                 int width = int.Parse(res[0]);
                 int height = int.Parse(res[1]);
 
-                parent.setResolution(width, height);
+                parent.SetResolution(width, height);
                 this.Close();
             }
             else

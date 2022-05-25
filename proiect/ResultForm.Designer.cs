@@ -36,6 +36,9 @@ namespace proiect
             // 
             // richTextBoxReview
             // 
+            this.richTextBoxReview.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.richTextBoxReview.Location = new System.Drawing.Point(49, 118);
             this.richTextBoxReview.Name = "richTextBoxReview";
             this.richTextBoxReview.Size = new System.Drawing.Size(681, 274);
@@ -46,6 +49,7 @@ namespace proiect
             // 
             // labelResult
             // 
+            this.labelResult.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.labelResult.AutoSize = true;
             this.labelResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.labelResult.Location = new System.Drawing.Point(299, 49);
@@ -56,6 +60,7 @@ namespace proiect
             // 
             // buttonReview
             // 
+            this.buttonReview.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonReview.Location = new System.Drawing.Point(279, 149);
             this.buttonReview.Name = "buttonReview";
             this.buttonReview.Size = new System.Drawing.Size(174, 27);
@@ -73,7 +78,7 @@ namespace proiect
             this.Controls.Add(this.labelResult);
             this.Controls.Add(this.richTextBoxReview);
             this.Name = "ResultForm";
-            this.Text = "resultForm";
+            this.Text = "Rezultate";
             this.Load += new System.EventHandler(this.resultForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

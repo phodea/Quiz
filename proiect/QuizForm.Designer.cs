@@ -44,6 +44,8 @@
             // 
             // groupBoxIntrebare
             // 
+            this.groupBoxIntrebare.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBoxIntrebare.Controls.Add(this.radioButtonOption4);
             this.groupBoxIntrebare.Controls.Add(this.radioButtonOption3);
             this.groupBoxIntrebare.Controls.Add(this.radioButtonOption2);
@@ -115,6 +117,7 @@
             // 
             // buttonPrevious
             // 
+            this.buttonPrevious.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.buttonPrevious.Location = new System.Drawing.Point(23, 338);
             this.buttonPrevious.Name = "buttonPrevious";
             this.buttonPrevious.Size = new System.Drawing.Size(199, 30);
@@ -125,6 +128,7 @@
             // 
             // buttonNext
             // 
+            this.buttonNext.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.buttonNext.Location = new System.Drawing.Point(522, 338);
             this.buttonNext.Name = "buttonNext";
             this.buttonNext.Size = new System.Drawing.Size(199, 30);
@@ -135,6 +139,7 @@
             // 
             // progressBarQuiz
             // 
+            this.progressBarQuiz.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.progressBarQuiz.Location = new System.Drawing.Point(219, 404);
             this.progressBarQuiz.Maximum = 10;
             this.progressBarQuiz.Name = "progressBarQuiz";
@@ -144,6 +149,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(348, 388);
             this.label1.Name = "label1";
@@ -153,6 +159,7 @@
             // 
             // buttonFinish
             // 
+            this.buttonFinish.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonFinish.Location = new System.Drawing.Point(275, 338);
             this.buttonFinish.Name = "buttonFinish";
             this.buttonFinish.Size = new System.Drawing.Size(199, 30);
@@ -173,7 +180,7 @@
             this.Controls.Add(this.buttonPrevious);
             this.Controls.Add(this.groupBoxIntrebare);
             this.Name = "QuizForm";
-            this.Text = "v";
+            this.Text = "Quiz";
             this.Load += new System.EventHandler(this.Form2_Load);
             this.groupBoxIntrebare.ResumeLayout(false);
             this.groupBoxIntrebare.PerformLayout();

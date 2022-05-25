@@ -1,8 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+/**************************************************************************
+ *                                                                        *
+ *  File:        Question.cs                                              *
+ *  Copyright:   (c) 2022, Hodea Paul-Emanuel                             *
+ *  E-mail:      paul-emanuel.hodea@student.tuiasi.ro                     *
+ *  Website:     https://github.com/phodea/Quiz                           *
+ *  Description: Clasa care stocheaza toate informatiile referitoare la o *
+ *  intrebare din quiz. Clasa contine si o metoda de validare a           *
+ *  raspunsului corect.                                                   *
+ *                                                                        *
+ **************************************************************************/
 
 namespace proiect
 {
@@ -23,10 +32,11 @@ namespace proiect
             this.correctAnswer = correctAnswer;
         }
 
-        public int getCorrectAnswer()
+        public int GetCorrectAnswer()
         {
             return correctAnswer;
         }
+
         /// <summary>
         /// Functie folosita pentru a valida un raspuns dat de utilizator
         /// </summary>

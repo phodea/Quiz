@@ -16,3 +16,39 @@ C:\Users\Paul Hodea\Desktop\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\
 C:\Users\Paul Hodea\Desktop\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csproj.CopyComplete
 C:\Users\Paul Hodea\Desktop\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.dll
 C:\Users\Paul Hodea\Desktop\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.pdb
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\UnitTestProjectDatabaseManager.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\UnitTestProjectDatabaseManager.pdb
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\DatabaseManager.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\DataTypes.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\DatabaseManager.pdb
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\DataTypes.pdb
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csprojAssemblyReference.cache
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csproj.CoreCompileInputs.cache
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csproj.CopyComplete
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.dll
+D:\Downloads\Proiect IP\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\UnitTestProjectDatabaseManager.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\UnitTestProjectDatabaseManager.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\DatabaseManager.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\DataTypes.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\DataTypes.pdb
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csprojAssemblyReference.cache
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.csproj.CopyComplete
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.dll
+C:\Users\Paul Hodea\Desktop\IP_PROIECT\UnitTestProjectDatabaseManager\obj\Debug\UnitTestProjectDatabaseManager.pdb

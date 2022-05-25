@@ -1,11 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
+﻿/**************************************************************************
+ *                                                                        *
+ *  File:        ResultForm.cs                                            *
+ *  Copyright:   (c) 2022, Hodea Paul-Emanuel                             *
+ *  E-mail:      paul-emanuel.hodea@student.tuiasi.ro                     *
+ *  Website:     https://github.com/phodea/Quiz                           *
+ *  Description: Form-ul din care se pot vizualiza rezultatele obtinute de*
+ *  uitlizator pentru quiz. Afisarea intrebarilor raspunse gresit se va   *
+ *  face intr-un control de tip RichTextBox                               *
+ *                                                                        *
+ **************************************************************************/
+
+using System;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace proiect
@@ -16,13 +22,19 @@ namespace proiect
     {
         Question[] wrongAnswers;
         int totalQuestions;
-        public ResultForm(int totalQuestions, Question[] wrongAnswers)
+        public ResultForm(int totalQuestions, Question[] wrongAnswers, int width, int height)
         {
             InitializeComponent();
-            this.CenterToScreen();
+            this.MinimumSize = new Size(500, 500);
+
             this.wrongAnswers = wrongAnswers;
             this.totalQuestions = totalQuestions;
             this.FormClosing += ResultForm_FormClosing;
+
+            this.Width = width;
+            this.Height = height;
+
+            this.CenterToScreen();
         }
 
         private void ResultForm_FormClosing(object sender, FormClosingEventArgs e)
@@ -53,7 +65,7 @@ namespace proiect
                         richTextBoxReview.SelectionFont = new Font("Times New Roman", 13, FontStyle.Regular);
                         richTextBoxReview.SelectionColor = Color.Red;
                     }
-                    else if (i == result.getCorrectAnswer())
+                    else if (i == result.GetCorrectAnswer())
                     {
                         richTextBoxReview.SelectionFont = new Font("Times New Roman", 13, FontStyle.Regular);
                         richTextBoxReview.SelectionColor = Color.Green;
