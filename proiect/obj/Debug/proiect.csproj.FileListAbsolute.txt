@@ -430,3 +430,435 @@ C:\Users\Paul Hodea\Desktop\IP_PROIECT\proiect\obj\Debug\proiect.csproj.CoreComp
 C:\Users\Paul Hodea\Desktop\IP_PROIECT\proiect\obj\Debug\proiect.csproj.CopyComplete
 C:\Users\Paul Hodea\Desktop\IP_PROIECT\proiect\obj\Debug\proiect.exe
 C:\Users\Paul Hodea\Desktop\IP_PROIECT\proiect\obj\Debug\proiect.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\sqlceca40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\sqlcecompact40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\sqlceer40EN.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\sqlceme40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\sqlceqp40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\amd64\sqlcese40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\sqlceca40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\sqlcecompact40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\sqlceer40EN.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\sqlceme40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\sqlceqp40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\x86\sqlcese40.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Database.mdf
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Database_log.ldf
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\proiect.exe.config
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\proiect.exe
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\proiect.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\netstandard.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.AppContext.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Collections.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ComponentModel.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Console.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Data.Common.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Globalization.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.Compression.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Linq.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.Http.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.Ping.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.Requests.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.Security.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ObjectModel.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Reflection.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Claims.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.Principal.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ValueTuple.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\DatabaseManager.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\DataTypes.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Abstractions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.Core.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServer.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Google.Protobuf.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\MySql.Data.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\QuizModule.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Buffers.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Memory.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\ZstdNet.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\DatabaseManager.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\DataTypes.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Abstractions.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Abstractions.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Extensions.SqlServer.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Extensions.SqlServer.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.Core.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.Core.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServer.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServer.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServerCe.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServerCe.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Google.Protobuf.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\MySql.Data.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\QuizModule.pdb
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Buffers.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Memory.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.exe.config
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.DifficultyForm.resources
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.MainForm.resources
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.QuizForm.resources
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.ResultForm.resources
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.SettingsForm.resources
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.csproj.CopyComplete
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.exe
+C:\Users\Vlad\Desktop\Anul 3\Semestru 2\Ingineria programarii\Proiect\paul\GIT\Quiz-main\proiect\obj\Debug\proiect.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\sqlceca40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\sqlcecompact40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\sqlceer40EN.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\sqlceme40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\sqlceqp40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\amd64\sqlcese40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\sqlceca40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\sqlcecompact40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\sqlceer40EN.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\sqlceme40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\sqlceqp40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\x86\sqlcese40.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Database.mdf
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Database_log.ldf
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\proiect.exe.config
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\proiect.exe
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\proiect.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\netstandard.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.AppContext.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Collections.Concurrent.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Collections.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Collections.NonGeneric.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Collections.Specialized.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ComponentModel.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Console.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Data.Common.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.Debug.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.Process.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.Tools.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Drawing.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Dynamic.Runtime.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Globalization.Calendars.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Globalization.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Globalization.Extensions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.Compression.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.Pipes.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Linq.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Linq.Expressions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Linq.Parallel.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Linq.Queryable.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.Http.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.NameResolution.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.NetworkInformation.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.Ping.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.Requests.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.Security.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.Sockets.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Net.WebSockets.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ObjectModel.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Reflection.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Reflection.Extensions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Reflection.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Resources.Reader.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Resources.ResourceManager.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Resources.Writer.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Extensions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Handles.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.InteropServices.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Numerics.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Claims.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.Principal.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Security.SecureString.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Text.Encoding.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Text.RegularExpressions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.Overlapped.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.Tasks.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.Thread.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.ThreadPool.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Threading.Timer.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ValueTuple.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Xml.XDocument.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Xml.XmlDocument.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Xml.XPath.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\DatabaseManager.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\DataTypes.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Abstractions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Extensions.SqlServer.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.Core.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServer.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServerCe.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Google.Protobuf.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Identity.Client.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\MySql.Data.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\QuizModule.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Buffers.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Memory.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\ZstdNet.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\DatabaseManager.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\DataTypes.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Abstractions.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Abstractions.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Extensions.SqlServer.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Extensions.SqlServer.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.Core.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.Core.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServer.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServer.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServerCe.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\FluentMigrator.Runner.SqlServerCe.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Google.Protobuf.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Google.Protobuf.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\K4os.Hash.xxHash.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.Identity.Client.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\MySql.Data.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\QuizModule.pdb
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Buffers.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Memory.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.exe.config
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.DifficultyForm.resources
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.MainForm.resources
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.QuizForm.resources
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.Properties.Resources.resources
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.ResultForm.resources
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.SettingsForm.resources
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.csproj.CopyComplete
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.exe
+D:\Documents\College\AC\Anul 3\Sem 2\IP\Proiect\Final\Quiz-main\proiect\obj\Debug\proiect.pdb

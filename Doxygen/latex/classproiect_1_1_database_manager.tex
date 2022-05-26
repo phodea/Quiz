@@ -1,0 +1,59 @@
+\hypertarget{classproiect_1_1_database_manager}{}\doxysection{proiect.\+Database\+Manager Class Reference}
+\label{classproiect_1_1_database_manager}\index{proiect.DatabaseManager@{proiect.DatabaseManager}}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classproiect_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{classproiect_1_1_database_manager_ab246a6782d813c292ef181bcc6347a32}{Get\+Questions}} (int difficulty)
+\begin{DoxyCompactList}\small\item\em Metoda Get\+Questions face un query in baza de date prin care returneaza lista de intrebari de o anumita dificultate \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{classproiect_1_1_database_manager}{Database\+Manager}} \mbox{\hyperlink{classproiect_1_1_database_manager_a492b3e94ac364543a4cbb4f92c4bacc4}{Get\+Instance}} ()
+\begin{DoxyCompactList}\small\item\em Metoda Get\+Instance apeleaza constructorul privat, si ne asigura ca putem avea o singura instanta din aceasta clasa \end{DoxyCompactList}\item 
+static void \mbox{\hyperlink{classproiect_1_1_database_manager_a40519b0d6f4ba60fc2edccb6b43b4d48}{Release\+Instance}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classproiect_1_1_database_manager_a492b3e94ac364543a4cbb4f92c4bacc4}\label{classproiect_1_1_database_manager_a492b3e94ac364543a4cbb4f92c4bacc4}} 
+\index{proiect.DatabaseManager@{proiect.DatabaseManager}!GetInstance@{GetInstance}}
+\index{GetInstance@{GetInstance}!proiect.DatabaseManager@{proiect.DatabaseManager}}
+\doxysubsubsection{\texorpdfstring{GetInstance()}{GetInstance()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{classproiect_1_1_database_manager}{Database\+Manager}} proiect.\+Database\+Manager.\+Get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metoda Get\+Instance apeleaza constructorul privat, si ne asigura ca putem avea o singura instanta din aceasta clasa 
+
+\begin{DoxyReturn}{Returns}
+Instanta curenta din \mbox{\hyperlink{classproiect_1_1_database_manager}{Database\+Manager}}, marcata cu keyword-\/ul static
+\end{DoxyReturn}
+\mbox{\Hypertarget{classproiect_1_1_database_manager_ab246a6782d813c292ef181bcc6347a32}\label{classproiect_1_1_database_manager_ab246a6782d813c292ef181bcc6347a32}} 
+\index{proiect.DatabaseManager@{proiect.DatabaseManager}!GetQuestions@{GetQuestions}}
+\index{GetQuestions@{GetQuestions}!proiect.DatabaseManager@{proiect.DatabaseManager}}
+\doxysubsubsection{\texorpdfstring{GetQuestions()}{GetQuestions()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classproiect_1_1_question}{Question}}\mbox{[}$\,$\mbox{]} proiect.\+Database\+Manager.\+Get\+Questions (\begin{DoxyParamCaption}\item[{int}]{difficulty }\end{DoxyParamCaption})}
+
+
+
+Metoda Get\+Questions face un query in baza de date prin care returneaza lista de intrebari de o anumita dificultate 
+
+
+\begin{DoxyParams}{Parameters}
+{\em difficulty} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Lista de intrebari
+\end{DoxyReturn}
+\mbox{\Hypertarget{classproiect_1_1_database_manager_a40519b0d6f4ba60fc2edccb6b43b4d48}\label{classproiect_1_1_database_manager_a40519b0d6f4ba60fc2edccb6b43b4d48}} 
+\index{proiect.DatabaseManager@{proiect.DatabaseManager}!ReleaseInstance@{ReleaseInstance}}
+\index{ReleaseInstance@{ReleaseInstance}!proiect.DatabaseManager@{proiect.DatabaseManager}}
+\doxysubsubsection{\texorpdfstring{ReleaseInstance()}{ReleaseInstance()}}
+{\footnotesize\ttfamily static void proiect.\+Database\+Manager.\+Release\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Quiz-\/main/\+Database\+Manager/\mbox{\hyperlink{_database_manager_8cs}{Database\+Manager.\+cs}}\end{DoxyCompactItemize}

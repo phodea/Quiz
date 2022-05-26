@@ -33,6 +33,7 @@
             this.buttonExit = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.buttonDifficulty = new System.Windows.Forms.Button();
+            this.buttonHelp = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonPlay
@@ -64,7 +65,7 @@
             // 
             this.buttonExit.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonExit.Location = new System.Drawing.Point(454, 413);
+            this.buttonExit.Location = new System.Drawing.Point(454, 459);
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(159, 36);
             this.buttonExit.TabIndex = 2;
@@ -95,12 +96,25 @@
             this.buttonDifficulty.UseVisualStyleBackColor = true;
             this.buttonDifficulty.Click += new System.EventHandler(this.buttonDifficulty_Click);
             // 
+            // buttonHelp
+            // 
+            this.buttonHelp.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.buttonHelp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonHelp.Location = new System.Drawing.Point(454, 403);
+            this.buttonHelp.Name = "buttonHelp";
+            this.buttonHelp.Size = new System.Drawing.Size(159, 40);
+            this.buttonHelp.TabIndex = 5;
+            this.buttonHelp.Text = "Help";
+            this.buttonHelp.UseVisualStyleBackColor = true;
+            this.buttonHelp.Click += new System.EventHandler(this.buttonHelp_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1037, 595);
+            this.Controls.Add(this.buttonHelp);
             this.Controls.Add(this.buttonDifficulty);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonExit);
@@ -121,6 +135,7 @@
         private System.Windows.Forms.Button buttonExit;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button buttonDifficulty;
+        private System.Windows.Forms.Button buttonHelp;
     }
 }
 
